@@ -298,4 +298,7 @@
     .homeCubeSkillsFace6 {
       transform: rotateX(-90deg) translate3d(0, 0, 75px);
     }
+    .homeCanvas{
+      height:80vh
+    }
   }
